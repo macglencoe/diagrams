@@ -1,9 +1,32 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="Page-1" id="9TfbhumZKOwv8vjmnpY6">
-    <mxGraphModel>
+    <mxGraphModel dx="854" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gF07o2XM8CqkStnafHHP-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;CRUD (Create, Read, Update, Delete) in the CMS (Content Management System)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="950" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gF07o2XM8CqkStnafHHP-4" value="Related Files:" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gF07o2XM8CqkStnafHHP-5" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="630" height="50" as="geometry">
+            <mxRectangle x="60" y="50" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gF07o2XM8CqkStnafHHP-6" value="&lt;a href=&quot;https://github.com/macglencoe/EmporiumWebsite/blob/cms/pages/cigars/add.js&quot;&gt;pages/cigars/add.js&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;" vertex="1" parent="gF07o2XM8CqkStnafHHP-5">
+          <mxGeometry x="10" y="10" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gF07o2XM8CqkStnafHHP-7" value="&lt;a href=&quot;https://github.com/macglencoe/EmporiumWebsite/blob/cms/pages/cigars/editnew.js&quot;&gt;pages/cigars/editnew.js&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;" vertex="1" parent="gF07o2XM8CqkStnafHHP-5">
+          <mxGeometry x="160" y="10" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gF07o2XM8CqkStnafHHP-8" value="&lt;a href=&quot;https://github.com/macglencoe/EmporiumWebsite/blob/cms/pages/cigars/%5Bslug%5D/edit.js&quot;&gt;pages/cigars/[slug]/edit.js&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;" vertex="1" parent="gF07o2XM8CqkStnafHHP-5">
+          <mxGeometry x="310" y="10" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gF07o2XM8CqkStnafHHP-9" value="&lt;a href=&quot;https://github.com/macglencoe/EmporiumWebsite/blob/cms/components/crudForm.js&quot;&gt;components/crudForm.js&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;" vertex="1" parent="gF07o2XM8CqkStnafHHP-5">
+          <mxGeometry x="470" y="10" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
