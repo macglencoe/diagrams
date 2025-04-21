@@ -11,15 +11,15 @@
           <mxGeometry x="10" y="50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zgXaqDFCprnik5w3uI3C-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="50" width="330" height="50" as="geometry">
+          <mxGeometry x="60" y="50" width="340" height="50" as="geometry">
             <mxRectangle x="60" y="50" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zgXaqDFCprnik5w3uI3C-4" value="&lt;a href=&quot;https://github.com/macglencoe/EmporiumWebsite/blob/cms/pages/cigars/%5Bslug%5D/edit.js&quot;&gt;pages/cigars/[slug]/edit.js&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;" vertex="1" parent="zgXaqDFCprnik5w3uI3C-3">
-          <mxGeometry x="10" y="10" width="150" height="30" as="geometry" />
+        <mxCell id="zgXaqDFCprnik5w3uI3C-4" value="&lt;a href=&quot;https://github.com/macglencoe/EmporiumWebsite/blob/cms/components/imageUpload.js&quot;&gt;components/imageUpload.js&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;" vertex="1" parent="zgXaqDFCprnik5w3uI3C-3">
+          <mxGeometry x="10" y="10" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgXaqDFCprnik5w3uI3C-5" value="&lt;a href=&quot;https://github.com/macglencoe/EmporiumWebsite/blob/cms/components/crudForm.js&quot;&gt;components/crudForm.js&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;" vertex="1" parent="zgXaqDFCprnik5w3uI3C-3">
-          <mxGeometry x="170" y="10" width="150" height="30" as="geometry" />
+          <mxGeometry x="180" y="10" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
