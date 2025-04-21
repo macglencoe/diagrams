@@ -130,7 +130,7 @@
         <mxCell id="qtyGDBOndFJ6fSlMXyA5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.723;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gF07o2XM8CqkStnafHHP-16" source="qtyGDBOndFJ6fSlMXyA5-17" target="qtyGDBOndFJ6fSlMXyA5-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qtyGDBOndFJ6fSlMXyA5-17" value="Map DataField to Inputs" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="gF07o2XM8CqkStnafHHP-16">
+        <mxCell id="qtyGDBOndFJ6fSlMXyA5-17" value="Map Fields to Inputs" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="gF07o2XM8CqkStnafHHP-16">
           <mxGeometry x="580" y="90" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qtyGDBOndFJ6fSlMXyA5-19" value="Field Input Component" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="gF07o2XM8CqkStnafHHP-16">
