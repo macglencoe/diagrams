@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zgXaqDFCprnik5w3uI3C-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Image Uploading, Processing, and Retrieval&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="zgXaqDFCprnik5w3uI3C-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Image Uploading, Processing, and Deletion&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="950" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zgXaqDFCprnik5w3uI3C-2" value="Related Files:" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
