@@ -197,16 +197,16 @@
         <mxCell id="Z2YnFf-FDvuRE0i_ADli-16" value="def" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Z2YnFf-FDvuRE0i_ADli-15">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5KXECC-7SWQL_P3zOM1c-1" value="First most recent&lt;div&gt;of all commits&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=1;size=0.11538461538461539;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="5KXECC-7SWQL_P3zOM1c-1" value="First most recent&lt;div&gt;of all commits&lt;/div&gt;&lt;div&gt;(abc)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=1;size=0.11538461538461539;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1350" y="340" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5KXECC-7SWQL_P3zOM1c-2" value="Local commit" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.15000000000000002;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="5KXECC-7SWQL_P3zOM1c-2" value="Local commit&lt;div&gt;(def)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.15000000000000002;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="935" y="420" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5KXECC-7SWQL_P3zOM1c-3" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Do they match?&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="5KXECC-7SWQL_P3zOM1c-3" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Do they match?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(abc&amp;nbsp;≠ def)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1085" y="400" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5KXECC-7SWQL_P3zOM1c-4" value="First most recent&lt;div&gt;of all commits&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=1;size=0.11538461538461539;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="5KXECC-7SWQL_P3zOM1c-4" value="First most recent&lt;div&gt;of all commits&lt;/div&gt;&lt;div&gt;(abc)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=1;size=0.11538461538461539;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="920" y="340" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5KXECC-7SWQL_P3zOM1c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5KXECC-7SWQL_P3zOM1c-2" target="5KXECC-7SWQL_P3zOM1c-3">
@@ -218,7 +218,7 @@
         <mxCell id="5KXECC-7SWQL_P3zOM1c-7" value="First most recent&lt;div&gt;commit to cigar data&lt;/div&gt;&lt;div&gt;(abc)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=1;size=0.11538461538461539;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1340" y="420" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5KXECC-7SWQL_P3zOM1c-8" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Do they match?&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="5KXECC-7SWQL_P3zOM1c-8" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Do they match?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(abc = abc)&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1210" y="400" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5KXECC-7SWQL_P3zOM1c-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5KXECC-7SWQL_P3zOM1c-7" target="5KXECC-7SWQL_P3zOM1c-8">
