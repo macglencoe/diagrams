@@ -553,7 +553,7 @@
         <mxCell id="EM7JgVLoXfNhmIjmGSwo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EM7JgVLoXfNhmIjmGSwo-16" target="EM7JgVLoXfNhmIjmGSwo-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EM7JgVLoXfNhmIjmGSwo-26" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;" edge="1" parent="1" source="EM7JgVLoXfNhmIjmGSwo-18">
+        <mxCell id="EM7JgVLoXfNhmIjmGSwo-26" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="EM7JgVLoXfNhmIjmGSwo-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1170" y="541.2" as="targetPoint" />
           </mxGeometry>
