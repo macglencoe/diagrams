@@ -4,42 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vNEHH-DYMuVMHKYgHkYS-1" value="Recent commits to cigar data" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="240" width="260" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="vNEHH-DYMuVMHKYgHkYS-2" value="1. abc" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vNEHH-DYMuVMHKYgHkYS-1" vertex="1">
-          <mxGeometry y="26" width="260" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="vNEHH-DYMuVMHKYgHkYS-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="vNEHH-DYMuVMHKYgHkYS-1" vertex="1">
-          <mxGeometry y="52" width="260" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="vNEHH-DYMuVMHKYgHkYS-4" value="2. ghi" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vNEHH-DYMuVMHKYgHkYS-1" vertex="1">
-          <mxGeometry y="60" width="260" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="vNEHH-DYMuVMHKYgHkYS-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="vNEHH-DYMuVMHKYgHkYS-1" vertex="1">
-          <mxGeometry y="86" width="260" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="vNEHH-DYMuVMHKYgHkYS-6" value="2. jkl" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vNEHH-DYMuVMHKYgHkYS-1" vertex="1">
-          <mxGeometry y="94" width="260" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="vNEHH-DYMuVMHKYgHkYS-7" value="All Recent Commits" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="240" width="260" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="vNEHH-DYMuVMHKYgHkYS-8" value="1. abc" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vNEHH-DYMuVMHKYgHkYS-7" vertex="1">
-          <mxGeometry y="26" width="260" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="vNEHH-DYMuVMHKYgHkYS-9" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="vNEHH-DYMuVMHKYgHkYS-7" vertex="1">
-          <mxGeometry y="52" width="260" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="vNEHH-DYMuVMHKYgHkYS-10" value="2. def" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vNEHH-DYMuVMHKYgHkYS-7" vertex="1">
-          <mxGeometry y="60" width="260" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="vNEHH-DYMuVMHKYgHkYS-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="vNEHH-DYMuVMHKYgHkYS-7" vertex="1">
-          <mxGeometry y="86" width="260" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="vNEHH-DYMuVMHKYgHkYS-12" value="2. ghi" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vNEHH-DYMuVMHKYgHkYS-7" vertex="1">
-          <mxGeometry y="94" width="260" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="vNEHH-DYMuVMHKYgHkYS-14" value="First most recent&lt;div&gt;commit to&lt;/div&gt;&lt;div&gt;cigar data&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=1;size=0.11538461538461539;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="500" y="480" width="130" height="60" as="geometry" />
         </mxCell>
