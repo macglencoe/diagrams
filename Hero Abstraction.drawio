@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="saDV-E0BetmcDKzamTSy-1" value="Before" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="saDV-E0BetmcDKzamTSy-1" value="Concrete" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="130" width="620" height="270" as="geometry" />
         </mxCell>
         <mxCell id="saDV-E0BetmcDKzamTSy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="saDV-E0BetmcDKzamTSy-1" source="saDV-E0BetmcDKzamTSy-2" target="saDV-E0BetmcDKzamTSy-7">
@@ -56,7 +56,7 @@
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="saDV-E0BetmcDKzamTSy-16" value="After" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="saDV-E0BetmcDKzamTSy-16" value="Abstract" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="420" width="620" height="360" as="geometry" />
         </mxCell>
         <mxCell id="saDV-E0BetmcDKzamTSy-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="saDV-E0BetmcDKzamTSy-16" source="saDV-E0BetmcDKzamTSy-17" target="saDV-E0BetmcDKzamTSy-31">
@@ -126,7 +126,7 @@
         <mxCell id="saDV-E0BetmcDKzamTSy-33" value="&lt;b&gt;Seasonal Hero Component&lt;/b&gt;&lt;div&gt;- Defines Seasonal Information&lt;/div&gt;&lt;div&gt;- Creates an &lt;b&gt;Abstract Hero&lt;/b&gt;&lt;/div&gt;&lt;div&gt;component&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;with that information&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="saDV-E0BetmcDKzamTSy-16">
           <mxGeometry x="400" y="155" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="saDV-E0BetmcDKzamTSy-41" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Abstract Hero&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;«Renders full component &lt;b&gt;dynamically&lt;/b&gt;&amp;nbsp;with provided seasonal information»&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="saDV-E0BetmcDKzamTSy-16">
+        <mxCell id="saDV-E0BetmcDKzamTSy-41" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Abstract Hero&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;«Renders full component &lt;b&gt;dynamically&lt;/b&gt;&amp;nbsp;with provided seasonal information»&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="saDV-E0BetmcDKzamTSy-16">
           <mxGeometry x="40" y="270" width="320" height="75" as="geometry" />
         </mxCell>
         <mxCell id="saDV-E0BetmcDKzamTSy-42" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="saDV-E0BetmcDKzamTSy-41">
