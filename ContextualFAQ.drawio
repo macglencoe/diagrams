@@ -1,9 +1,159 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="HxxKa103kx-Rgn3DknJv">
-    <mxGraphModel dx="1158" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="799" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="Wa8jCNbtw8NcHExo1JdL-2" target="Wa8jCNbtw8NcHExo1JdL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-2" value="FAQ Data - &lt;font face=&quot;Courier New&quot;&gt;data/faq.json&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="520" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-13" value="QA 1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-2">
+          <mxGeometry x="10" y="30" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-14" value="Q: Can I bring food?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-13">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-13">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-16" value="A: Yes!" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-13">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-17" value="QA 2" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-2">
+          <mxGeometry x="180" y="30" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-18" value="Q: What kind of payment?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-17">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-19" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-17">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-20" value="A: Cash and Card" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-17">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-21" value="QA 3" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-2">
+          <mxGeometry x="350" y="30" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-22" value="Q: Is the maze haunted?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-21">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-21">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-24" value="A: No" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-21">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-29" value="FAQ Page - &lt;font face=&quot;Courier New&quot;&gt;/faq&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="520" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Can I bring food?&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Yes!&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-29">
+          <mxGeometry x="10" y="30" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-32" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;What kind of payment?&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Cash and Card&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-29">
+          <mxGeometry x="10" y="80" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-33" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Is the maze haunted?&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;No&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-29">
+          <mxGeometry x="10" y="130" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-35" value="FAQ Data - &lt;font face=&quot;Courier New&quot;&gt;data/faq.json&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="500" width="520" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-36" value="QA 1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-35">
+          <mxGeometry x="10" y="30" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-37" value="Q: Can I bring food?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-36">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-38" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-36">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-39" value="A: Yes!" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-36">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-50" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-36">
+          <mxGeometry y="86" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-49" value="Page: &lt;font face=&quot;Courier New&quot;&gt;/food&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-36">
+          <mxGeometry y="94" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-40" value="QA 2" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-35">
+          <mxGeometry x="180" y="30" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-41" value="Q: What kind of payment?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-40">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-42" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-40">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-43" value="A: Cash and Card" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-40">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-51" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-40">
+          <mxGeometry y="86" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-52" value="Page: &lt;font face=&quot;Courier New&quot;&gt;/food&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-40">
+          <mxGeometry y="94" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-44" value="QA 3" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-35">
+          <mxGeometry x="350" y="30" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-45" value="Q: Is the maze haunted?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-44">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-46" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-44">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-47" value="A: No" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-44">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-53" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-44">
+          <mxGeometry y="86" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-54" value="Page: &lt;font face=&quot;Courier New&quot;&gt;/maze&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-44">
+          <mxGeometry y="94" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-48" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="80" y="470" width="520" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-55" value="Food Page - &lt;font face=&quot;Courier New&quot;&gt;/food&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="730" width="260" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-56" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Can I bring food?&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Yes!&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-55">
+          <mxGeometry x="10" y="130" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-57" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;What kind of payment?&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Cash and Card&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-55">
+          <mxGeometry x="10" y="180" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-63" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;... Food page content ...&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-55">
+          <mxGeometry x="10" y="30" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-64" value="&lt;span&gt;&lt;b&gt;FAQ&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-55">
+          <mxGeometry x="10" y="80" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-59" value="Maze Page - &lt;font face=&quot;Courier New&quot;&gt;/maze&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="730" width="260" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-62" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Is the maze haunted?&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;No&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-59">
+          <mxGeometry x="10" y="130" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-65" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;... Maze page content ...&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-59">
+          <mxGeometry x="10" y="30" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-66" value="&lt;span&gt;&lt;b&gt;FAQ&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="Wa8jCNbtw8NcHExo1JdL-59">
+          <mxGeometry x="10" y="80" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Wa8jCNbtw8NcHExo1JdL-36" target="Wa8jCNbtw8NcHExo1JdL-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Wa8jCNbtw8NcHExo1JdL-40" target="Wa8jCNbtw8NcHExo1JdL-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa8jCNbtw8NcHExo1JdL-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Wa8jCNbtw8NcHExo1JdL-44" target="Wa8jCNbtw8NcHExo1JdL-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
