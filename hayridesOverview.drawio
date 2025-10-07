@@ -76,6 +76,9 @@
         <mxCell id="Yz_qzDubZsvZcdyezcY0-35" value="Hayride Scheduling System Overview" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="350" y="200" width="240" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Yz_qzDubZsvZcdyezcY0-37" value="&lt;span style=&quot;font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif;&quot;&gt;Admissions and driver clients hits API which orchestrates helpers and database schedule storage pipeline.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="220" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
