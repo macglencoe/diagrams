@@ -40,6 +40,13 @@
         <mxCell id="wKjelJYVH1py5RIKKvwj-4" value="Blob" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="450" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wKjelJYVH1py5RIKKvwj-10" value="Page Request" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="160" as="sourcePoint" />
+            <mxPoint x="360" y="160" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
