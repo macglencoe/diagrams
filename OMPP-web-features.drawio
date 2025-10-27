@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.8" pages="2">
   <diagram name="Page-1" id="Be-21d4X_abvz9L7CE6l">
     <mxGraphModel dx="1192" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,6 +81,29 @@
         </mxCell>
         <mxCell id="zWzznixCFk7TpnTXlBiS-28" value="Old McDonalds Pumpkin Patch LLC" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="730" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="99_LLEG20oOB2S9L-SF0" name="Page-2">
+    <mxGraphModel dx="1192" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aDsiaeOltgFMRetXOLiE-1" value="Old McDonald&#39;s Website Changes 2026" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=34;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RwiKl8eejKHYcrawGEMM-4" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="360" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="RwiKl8eejKHYcrawGEMM-1" value="&lt;h1 style=&quot;line-height: 40%;&quot;&gt;Layout&lt;/h1&gt;&lt;div&gt;Header, Footer,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cookie Notice&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="RwiKl8eejKHYcrawGEMM-4">
+          <mxGeometry x="10" y="10" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RwiKl8eejKHYcrawGEMM-3" value="Move weather advisory into layout,&lt;div&gt;so that it is visible from all pages&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="RwiKl8eejKHYcrawGEMM-4" source="RwiKl8eejKHYcrawGEMM-2" target="RwiKl8eejKHYcrawGEMM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwiKl8eejKHYcrawGEMM-2" value="Weather advisory&lt;div&gt;with forecast&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=19;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="RwiKl8eejKHYcrawGEMM-4">
+          <mxGeometry x="85" y="160" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
