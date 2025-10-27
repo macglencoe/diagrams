@@ -116,6 +116,24 @@
         <mxCell id="FUamXydY-CYo3SXrEvcG-4" value="Add storytelling and games to the scavenger hunt, making it more fun and engaging" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="FUamXydY-CYo3SXrEvcG-2">
           <mxGeometry y="130" width="250" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8wYNQ020H2KHMJsdHtKZ-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8wYNQ020H2KHMJsdHtKZ-4" value="Expand analytics with Statsig" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="8wYNQ020H2KHMJsdHtKZ-2">
+          <mxGeometry y="130" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8wYNQ020H2KHMJsdHtKZ-1" value="&lt;h1&gt;Analytics&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="8wYNQ020H2KHMJsdHtKZ-2">
+          <mxGeometry x="40" y="20" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-vkcmFsSCiAkuajL5mA9-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-vkcmFsSCiAkuajL5mA9-2" value="&lt;h1 style=&quot;line-height: 40%;&quot;&gt;Bookings Database&lt;/h1&gt;&lt;div&gt;with reservation lookup for admissions&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="-vkcmFsSCiAkuajL5mA9-1">
+          <mxGeometry x="20" y="20" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-vkcmFsSCiAkuajL5mA9-4" value="NEW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-vkcmFsSCiAkuajL5mA9-1">
+          <mxGeometry width="45" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
