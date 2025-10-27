@@ -134,6 +134,33 @@
         <mxCell id="-vkcmFsSCiAkuajL5mA9-4" value="NEW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-vkcmFsSCiAkuajL5mA9-1">
           <mxGeometry width="45" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-vkcmFsSCiAkuajL5mA9-5" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="250" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-XtZM-W8FqmG-foQbp4e-1" value="&lt;h1&gt;Website Config Interfaces&lt;/h1&gt;&lt;div&gt;for Weather, Calendar, Pricing, etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="-vkcmFsSCiAkuajL5mA9-5">
+          <mxGeometry x="20" y="20" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-XtZM-W8FqmG-foQbp4e-2" value="NEW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-vkcmFsSCiAkuajL5mA9-5">
+          <mxGeometry width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-XtZM-W8FqmG-foQbp4e-4" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="560" width="360" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-XtZM-W8FqmG-foQbp4e-5" value="&lt;h1&gt;Employee Scheduling&lt;/h1&gt;&lt;div&gt;May not require website feature; could just be a spreadsheet&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="-XtZM-W8FqmG-foQbp4e-4">
+          <mxGeometry x="20" y="20" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-XtZM-W8FqmG-foQbp4e-6" value="NEW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-XtZM-W8FqmG-foQbp4e-4">
+          <mxGeometry width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-XtZM-W8FqmG-foQbp4e-7" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="750" width="630" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-XtZM-W8FqmG-foQbp4e-8" value="&lt;h1&gt;Online Payments &amp;amp; Bookings&lt;/h1&gt;&lt;div&gt;Will require rigorous and intensive testing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="-XtZM-W8FqmG-foQbp4e-7">
+          <mxGeometry x="20" y="15" width="590" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-XtZM-W8FqmG-foQbp4e-12" value="MAYBE??" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-XtZM-W8FqmG-foQbp4e-7">
+          <mxGeometry width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
