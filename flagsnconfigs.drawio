@@ -102,28 +102,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-32" value="&lt;font face=&quot;Courier New&quot;&gt;FlagsContext.js&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="740" width="200" height="200" as="geometry" />
+          <mxGeometry x="220" y="740" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-59" value="&lt;font face=&quot;Courier New&quot;&gt;useFlags()&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-32">
-          <mxGeometry x="40" y="150" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nHHqBQeuZVd9e1d18vgy-32" source="nHHqBQeuZVd9e1d18vgy-60" target="nHHqBQeuZVd9e1d18vgy-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-60" value="&lt;font face=&quot;Courier New&quot;&gt;&amp;lt;FlagsProvider&amp;gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-32">
-          <mxGeometry x="40" y="30" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="65" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-33" value="&lt;font face=&quot;Courier New&quot;&gt;layout.js&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="610" width="280" height="260" as="geometry" />
+          <mxGeometry x="-120" y="610" width="280" height="330" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-34" value="Get flags and configs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-33">
           <mxGeometry x="80" y="40" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-40" value="&lt;font face=&quot;Courier New&quot;&gt;&amp;lt;FlagsProvider&amp;gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;and&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;lt;ConfigsProvider&amp;gt;&lt;/font&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-33">
-          <mxGeometry x="40" y="100" width="200" height="150" as="geometry" />
+          <mxGeometry x="40" y="100" width="200" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="nHHqBQeuZVd9e1d18vgy-47" value="Website Content" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-40">
-          <mxGeometry x="10" y="60" width="180" height="85" as="geometry" />
+        <mxCell id="nHHqBQeuZVd9e1d18vgy-47" value="Website Content&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-40">
+          <mxGeometry x="10" y="60" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nHHqBQeuZVd9e1d18vgy-65" value="Client" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-40">
+          <mxGeometry x="50" y="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.373;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nHHqBQeuZVd9e1d18vgy-33" source="nHHqBQeuZVd9e1d18vgy-34" target="nHHqBQeuZVd9e1d18vgy-40">
           <mxGeometry relative="1" as="geometry" />
@@ -138,25 +141,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-39" value="&lt;font face=&quot;Courier New&quot;&gt;ConfigsContext.js&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="740" width="200" height="200" as="geometry" />
+          <mxGeometry x="-380" y="740" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nHHqBQeuZVd9e1d18vgy-39" source="nHHqBQeuZVd9e1d18vgy-62" target="nHHqBQeuZVd9e1d18vgy-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-62" value="&lt;font face=&quot;Courier New&quot;&gt;&amp;lt;ConfigsProvider&amp;gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-39">
-          <mxGeometry x="30" y="30" width="140" height="30" as="geometry" />
+          <mxGeometry x="30" y="65" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-64" value="&lt;font face=&quot;Courier New&quot;&gt;useConfigs()&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-39">
-          <mxGeometry x="40" y="150" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHHqBQeuZVd9e1d18vgy-40" target="nHHqBQeuZVd9e1d18vgy-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nHHqBQeuZVd9e1d18vgy-40" target="nHHqBQeuZVd9e1d18vgy-62">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nHHqBQeuZVd9e1d18vgy-65" value="Client" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="880" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nHHqBQeuZVd9e1d18vgy-64" target="nHHqBQeuZVd9e1d18vgy-65">
           <mxGeometry relative="1" as="geometry" />
