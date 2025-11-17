@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZyXaeMTqUXK795ft9Ka9-4" value="Server" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ZyXaeMTqUXK795ft9Ka9-4" value="Server&lt;div&gt;consumption&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-30" y="530" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZyXaeMTqUXK795ft9Ka9-5" value="&lt;font face=&quot;Courier New&quot;&gt;statsig.js&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -133,7 +133,7 @@
         <mxCell id="nHHqBQeuZVd9e1d18vgy-47" value="Website Content&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-40">
           <mxGeometry x="10" y="60" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="nHHqBQeuZVd9e1d18vgy-65" value="Client" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-40">
+        <mxCell id="nHHqBQeuZVd9e1d18vgy-65" value="Client&lt;div&gt;consumption&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-40">
           <mxGeometry x="50" y="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.373;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="nHHqBQeuZVd9e1d18vgy-33" source="nHHqBQeuZVd9e1d18vgy-34" target="nHHqBQeuZVd9e1d18vgy-40">
