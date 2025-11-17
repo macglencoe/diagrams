@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Page-1" id="XTwiRv2wMDKX8iY7lD53">
+    <mxGraphModel dx="1492" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZyXaeMTqUXK795ft9Ka9-3" value="Client" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyXaeMTqUXK795ft9Ka9-4" value="Server" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyXaeMTqUXK795ft9Ka9-5" value="&lt;font face=&quot;Courier New&quot;&gt;statsig.js&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="360" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyXaeMTqUXK795ft9Ka9-7" value="Identify Statsig User" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="ZyXaeMTqUXK795ft9Ka9-5">
+          <mxGeometry x="40" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyXaeMTqUXK795ft9Ka9-12" value="Statsig Adapter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZyXaeMTqUXK795ft9Ka9-5">
+          <mxGeometry x="40" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyXaeMTqUXK795ft9Ka9-9" value="&lt;font face=&quot;Courier New&quot;&gt;flags.server.js&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="290" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyXaeMTqUXK795ft9Ka9-10" value="Create and evaluate all gates against Statsig" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZyXaeMTqUXK795ft9Ka9-9">
+          <mxGeometry x="30" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyXaeMTqUXK795ft9Ka9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZyXaeMTqUXK795ft9Ka9-9" source="ZyXaeMTqUXK795ft9Ka9-11" target="ZyXaeMTqUXK795ft9Ka9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyXaeMTqUXK795ft9Ka9-11" value="Gate Definitions" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.13636363636363635;" vertex="1" parent="ZyXaeMTqUXK795ft9Ka9-9">
+          <mxGeometry x="10" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyXaeMTqUXK795ft9Ka9-13" value="Defaults" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.13636363636363635;" vertex="1" parent="ZyXaeMTqUXK795ft9Ka9-9">
+          <mxGeometry x="110" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyXaeMTqUXK795ft9Ka9-14" value="Load Raw Flags" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZyXaeMTqUXK795ft9Ka9-9">
+          <mxGeometry x="180" y="220" width="65" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
