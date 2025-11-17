@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="XTwiRv2wMDKX8iY7lD53">
-    <mxGraphModel dx="1569" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1729" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
         <mxCell id="ZyXaeMTqUXK795ft9Ka9-13" value="Defaults" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.13636363636363635;" parent="ZyXaeMTqUXK795ft9Ka9-9" vertex="1">
           <mxGeometry x="110" y="30" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nHHqBQeuZVd9e1d18vgy-1" value="Load Flags with Cache" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZyXaeMTqUXK795ft9Ka9-9">
+        <mxCell id="nHHqBQeuZVd9e1d18vgy-1" value="Cache Flags" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZyXaeMTqUXK795ft9Ka9-9">
           <mxGeometry x="60" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-14" value="&lt;font face=&quot;Courier New&quot;&gt;getFlags()&lt;/font&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;getFlagEvaluator()&lt;/font&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="ZyXaeMTqUXK795ft9Ka9-9">
@@ -89,7 +89,7 @@
         <mxCell id="nHHqBQeuZVd9e1d18vgy-23" value="Defaults" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.13636363636363635;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-17">
           <mxGeometry x="10" y="30" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nHHqBQeuZVd9e1d18vgy-24" value="Load Configs with Memo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-17">
+        <mxCell id="nHHqBQeuZVd9e1d18vgy-24" value="Memoize Configs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-17">
           <mxGeometry x="100" y="190" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-25" value="&lt;font face=&quot;Courier New&quot;&gt;getConfigs()&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-17">
