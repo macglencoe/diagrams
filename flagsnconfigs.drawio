@@ -107,7 +107,7 @@
         <mxCell id="nHHqBQeuZVd9e1d18vgy-59" value="&lt;font face=&quot;Courier New&quot;&gt;useFlags()&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-32">
           <mxGeometry x="40" y="130" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nHHqBQeuZVd9e1d18vgy-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nHHqBQeuZVd9e1d18vgy-32" source="nHHqBQeuZVd9e1d18vgy-60" target="nHHqBQeuZVd9e1d18vgy-59">
+        <mxCell id="nHHqBQeuZVd9e1d18vgy-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="nHHqBQeuZVd9e1d18vgy-32" source="nHHqBQeuZVd9e1d18vgy-60" target="nHHqBQeuZVd9e1d18vgy-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-60" value="&lt;font face=&quot;Courier New&quot;&gt;&amp;lt;FlagsProvider&amp;gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-32">
@@ -143,7 +143,7 @@
         <mxCell id="nHHqBQeuZVd9e1d18vgy-39" value="&lt;font face=&quot;Courier New&quot;&gt;ConfigsContext.js&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-380" y="740" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="nHHqBQeuZVd9e1d18vgy-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nHHqBQeuZVd9e1d18vgy-39" source="nHHqBQeuZVd9e1d18vgy-62" target="nHHqBQeuZVd9e1d18vgy-64">
+        <mxCell id="nHHqBQeuZVd9e1d18vgy-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="nHHqBQeuZVd9e1d18vgy-39" source="nHHqBQeuZVd9e1d18vgy-62" target="nHHqBQeuZVd9e1d18vgy-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nHHqBQeuZVd9e1d18vgy-62" value="&lt;font face=&quot;Courier New&quot;&gt;&amp;lt;ConfigsProvider&amp;gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="nHHqBQeuZVd9e1d18vgy-39">
