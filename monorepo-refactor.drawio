@@ -213,6 +213,9 @@
             <mxPoint x="480" y="264.89" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eS4-ztZvUyzzVtkYz7bd-51" value="discrepancies have to be manually merged" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="235" width="179.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
